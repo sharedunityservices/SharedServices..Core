@@ -1,0 +1,12 @@
+{
+  "name": "com.sharedunityservices.core",
+  "displayName": "SharedServices..Core",
+  "version": "1.0.0",
+  "description": "Shared Unity Services Core package",
+  "unity": "2020.1",
+  "author": {
+    "name": "ETdoFresh",
+    "email": "etdofresh@gmail.com",
+    "url": "https://github.com/sharedunityservices"
+  }
+}

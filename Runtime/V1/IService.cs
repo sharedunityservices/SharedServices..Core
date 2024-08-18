@@ -2,6 +2,7 @@
 {
     public interface IService
     {
+        virtual int Priority => 0;
         void Initialize() { }
     }
 }
